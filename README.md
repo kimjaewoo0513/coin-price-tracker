@@ -1,3 +1,6 @@
+# 참고한 API 주소 
+https://www.coingecko.com/en/api/documentation
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
